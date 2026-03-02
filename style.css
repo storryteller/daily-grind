@@ -1,1 +1,29 @@
-body { background: #f0ebe3; }
+body {
+  background: #f0ebe3;
+  border: 1px solid #f0ebe3; 
+  font-family: system-ui, sans-serif; 
+  line-height: 1.6;             
+  min-height: 100vh;             
+  margin: 0;                       
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
